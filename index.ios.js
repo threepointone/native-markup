@@ -1,9 +1,3 @@
-/**
- * Copyright 2004-present Facebook. All Rights Reserved.
- *
- * @providesModule TicTacToeApp
- * @flow
- */
 'use strict';
 var _ = require('underscore');
 var React = require('react-native');
